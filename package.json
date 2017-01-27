@@ -1,0 +1,31 @@
+{
+  "name": "alexa-node-example",
+  "version": "1.0.0",
+  "description": "An example Amazon Alexa skill built with the Alexa SDK and integrated with Dialog Analytics",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6",
+    "dialog-api": "0.0.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "conversation",
+    "dialog"
+  ],
+  "author": "Dialog Analytics",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dialoganalytics/alexa-node-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dialoganalytics/alexa-node-example/issues"
+  },
+  "homepage": "https://github.com/dialoganalytics/alexa-node-example#readme"
+}
